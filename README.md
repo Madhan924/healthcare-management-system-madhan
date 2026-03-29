@@ -1,4 +1,15 @@
-# Diabetes Risk Assessment System
+# Healthcare Management System
+
+This project was collaboratively developed with Manikanta Perla.
+
+Original Repository:
+https://github.com/ManikantaPerla07/healthcare
+
+## My Contributions:
+- Assisted in development and testing
+- Made minor UI improvements
+- Supported backend logic
+- Participated in debugging and integration# Diabetes Risk Assessment System
 A software implemented over the web medium that predicts a person’s chances of suffering from diabetes by analyzing his/her health records through a machine learning algorithm.
 ## Features
 * Provides a user-friendly web interface for inputting health information.
